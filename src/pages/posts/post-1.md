@@ -1,17 +1,14 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: 'My First Blog Post'
 pubDate: 2023-01-26
 description: 'This is the first post of my new Astro blog.'
 author: 'Astro Learner'
 image:
-  url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpg'
-  alt: 'The Astro logo with the word One'
+  url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
+  alt: 'The Astro logo with the word One.'
 tags: ['astro', 'blogging', 'learning in public']
 ---
-
-# My first Blog Post
-
-Published: 2023-01-26
 
 Welcome to my _new blog_ about learning Astro! Here I will share my learning journey as I build a new website.
 
